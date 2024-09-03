@@ -1,0 +1,21 @@
+{ 
+     "author": "Brendan Dayley", 
+     "name": "kavi", 
+     "version": "0.1.1", 
+     "description": "Censors words out of text", 
+     "main": "censortext", 
+     "repository": { 
+"type": "git", 
+"url": "https://github.com/Kavinishanagarajan/Kavinishanagarajan/upload" 
+ }, 
+"keywords": [ 
+ "censor", 
+ "words" 
+ ], 
+
+     "dependencies": {}, 
+    "engines": { 
+     "node": "*" 
+     } 
+    } 
+    
